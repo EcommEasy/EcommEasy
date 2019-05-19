@@ -30,14 +30,15 @@ Built with:
   
 Prepare database at this setup our database is empty. To add default data, indexes and access token we need to run:
 
-  ```shell
-  npm run setup <email> <domain>
-  ```
+```shell
+npm run setup <email> <domain>
+```
   
 We don't have real domain, so we'll use our local domain:
-    ```shell
-    npm run setup admin@example.com http://localhost:3000
-    ```
+
+```shell
+npm run setup admin@example.com http://localhost:3000
+```
 This script will add token with email admin@example.com and my domain to http://localhost
 
 - **Run Application**
@@ -57,7 +58,7 @@ At this setup, we have api running on port 3001 and available at **http://localh
   
 For example, here is the default store settings: **http://localhost:3001/api/v1/settings**  
   
-  ```shell
+```shell
 info: API running at http://localhost:3001
 info: MongoDB connected successfully
-  ```
+```
