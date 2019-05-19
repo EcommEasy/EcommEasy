@@ -8,7 +8,7 @@ Built with:
 * WebPack 4
 * MongoDB
 
-## Setup Instructions
+# Setup Instructions
 
 ### EcommEasy Backend (API) Installation
   
