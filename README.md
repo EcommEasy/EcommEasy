@@ -13,18 +13,18 @@ Built with:
 ### EcommEasy Backend (API) Installation
   
 - **Clone Git repository**
-  ```shell
-  git clone https://github.com/EcommEasy/EcommEasy.git
-  ```
+```shell
+git clone https://github.com/EcommEasy/EcommEasy.git
+```
 - **Go to EcommEasy-Admin app folder**
 ```shell
  cd EcommEasy-Admin
- ```
+```
  
 - **Install dependencies**
-  ```shell
-  npm i
-  ```
+```shell
+npm i
+```
   
 - **Setup database** 
   
