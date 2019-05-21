@@ -16,14 +16,14 @@ EcommEasy allows you to create PWA ready E-commerce Application built with React
 ```shell
 git clone https://github.com/EcommEasy/EcommEasy.git
 ```
-- **Go to EcommEasy-Admin app folder**
+- **Go to EcommEasy app folder**
 ```shell
- cd EcommEasy-Admin
+ cd EcommEasy
 ```
  
 - **Install dependencies**
 ```shell
-npm i
+npm install
 ```
   
 - **Setup database** 
