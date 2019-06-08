@@ -52,6 +52,7 @@
     "concurrently": "^4.0.1",
     "cookie-parser": "^1.4.3",
     "cryptr": "^4.0.2",
+    "dotenv": "^8.0.0",
     "eslint": "^5.4.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^3.0.1",
