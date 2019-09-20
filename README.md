@@ -1,4 +1,4 @@
-# EcommEasy - A seamless way to get your e-commerce project up nd running.
+# EcommEasy - A seamless way to build your e-commerce application.
 
 EcommEasy allows you to create production ready E-commerce Application built with React and Node.js.
 
