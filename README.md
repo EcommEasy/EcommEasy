@@ -1,5 +1,6 @@
-# EcommEasy - Ecommerce Progressive Web Apps
-EcommEasy allows you to create PWA ready E-commerce Application built with React and Node.js.
+# EcommEasy - A seamless way to get your e-commerce project up nd running.
+
+EcommEasy allows you to create production ready E-commerce Application built with React and Node.js.
 
 **Built with:**
 * Node.js v8.9
