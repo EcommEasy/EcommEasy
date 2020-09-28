@@ -3,7 +3,7 @@
 EcommEasy allows you to create production ready E-commerce Application built with React and Node.js.
 
 **Built with:**
-* Node.js v8.9
+* Node.js
 * Express
 * Babel
 * WebPack 4
