@@ -88,7 +88,7 @@
     "sitemap": "^1.13.0",
     "slug": "^0.9.3",
     "stripe": "^6.7.0",
-    "ua-parser-js": "^0.7.18",
+    "ua-parser-js": "^0.7.24",
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
     "winston": "^3.0.0",
