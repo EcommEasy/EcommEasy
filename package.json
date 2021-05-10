@@ -47,7 +47,7 @@
     "bcrypt": "^3.0.4",
     "body-parser": "^1.18.3",
     "cezerin2-client": "^0.35.0",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "clean-webpack-plugin": "^0.1.19",
     "concurrently": "^4.0.1",
     "cookie-parser": "^1.4.3",
